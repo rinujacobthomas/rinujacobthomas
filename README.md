@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/rinujacobthomas"><img alt="Rinu Thomas Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rinujacobthomas&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rinujacobthomas"><img alt="Rinu Thomas Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rinujacobthomas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
