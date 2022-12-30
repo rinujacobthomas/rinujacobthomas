@@ -9,7 +9,7 @@
 
 - 🖥️ I’m currently working as Front-end in a sweden based Web App
 
-- 📱 I’m also working in my personal Apps(**[SwyPay](https://play.google.com/store/apps/details?id=neoito.swypay)** ,etc)
+- 📱 I’m also working in my personal Apps(**[SwyPay](https://play.google.com/store/apps/details?id=neoito.swypay)**, **[SquadRank](https://play.google.com/store/apps/details?id=com.neoito.squadrank)**, etc)
 
 - 🔭 I’m a **[nasscom](https://nasscom.in/)** certified **[Junior Software Developer](https://drive.google.com/file/d/1--7GhZUnH8rq9CxomFxMNC6PGQJL9L6K/view)**
   
