@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🖥️ I’m currently working as Software Engineer at **[NeoITO](https://www.neoito.com/)**
+- 🖥️ I’m currently working as Software Engineer at **[IBM](https://www.ibm.com/in-en/)**
 
 - 🖥️ I’m currently working as Front-end in a sweden based Web App
 
